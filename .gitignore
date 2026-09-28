@@ -1,0 +1,7 @@
+.env
+state.json
+state.tmp
+edge-profile/
+gymbot.log*
+.gymbot.lock
+__pycache__/
